@@ -1,24 +1,10 @@
-# users-list
+# Lista de usuários
 
-## Project setup
+### instalar as dependências do projeto
 ```
 npm install
 ```
-
-### Compiles and hot-reloads for development
+### caso queira rodar localmente
 ```
 npm run dev
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
